@@ -45,7 +45,7 @@ h3{
 .bottom-cloud{
   position:absolute;
   bottom:300px;
-  left:350px;
+  left:250px;
 
 }
 hr{
@@ -60,7 +60,7 @@ hr{
 }
 .top-cloud{
 position:absolute;
-right:450px;
+right:350px;
 top:50px;
 }
 .image{
